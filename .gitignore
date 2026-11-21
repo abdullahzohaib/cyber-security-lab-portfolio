@@ -1,0 +1,12 @@
+# Sensitive files
+.env
+*.key
+*.pem
+credentials.txt
+
+# Temporary and log files
+*.log
+*.tmp
+
+# Backup files
+*~
